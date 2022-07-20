@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Demo]()
+- [Live Demo](https://njvs.github.io/Testimonials-grid-section/)
 
 ## My process
 
